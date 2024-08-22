@@ -1,0 +1,6 @@
+export const ActionTypes = {
+    SET_PRODUCTS: "SET_PRODUCTS",
+    SET_CATEGORIES: "SET_CATEGORIES",
+    SELECTED_CATEGORY: "SELECTED_CATEGORY",
+  };
+  
